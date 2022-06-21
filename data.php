@@ -13,8 +13,8 @@ $day=htmlspecialchars($_POST["day"], ENT_QUOTES);
         //「予約フォーム」からの情報をそれぞれ変数に格納しておく↑
 
         
-$dsn="mysql:host=ホスト名;dbname=データベース名;charset=utf8";
-$user="ユーザー名";
+$dsn="mysql:host=localhost;dbname=postgres2;charset=utf8";
+$user="";
 $pass="パスワード";
            
     

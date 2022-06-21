@@ -1,4 +1,4 @@
-<form action="reservation_calender.php" method="post">
+<form action="Datatakeout.php" method="post">
                            お名前
                             <div><input type="text" name="name" placeholder="山田太郎"></div>
                             電話番号
